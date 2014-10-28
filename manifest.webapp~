@@ -1,9 +1,9 @@
 {
 	"name": "Quiz Mania",
 	"description" : "A quiz game for all my dear quizzers",
-	"launch_path": "main.html",
+	"launch_path": "/main.html",
 	"icons": {
-		"128":"/images/Q.png"
+		"128":"/images/QUIZ.jpeg"
 	
 },
 "developer": {
