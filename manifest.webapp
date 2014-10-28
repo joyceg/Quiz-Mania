@@ -1,15 +1,15 @@
 {
-  "name": "Quiz Mania",
-  "description": "I present this App to all my Quiz falks.Please do go through this app.If you find any bugs please feel free to report it by writing to me at geojoyce934@gmail.com",
-  "launch_path": "/main.html",
-  "icons": {
-    
-    "128":"/images/QUIZ.jpeg"
-  },
-  "developer": {
-    "name": "Joyce George",
-    "my-blog":"geojoyce.wordpress.com"
-     
-  },
-  "default_locale": "en"
+	"name": "Quiz Mania",
+	"description" : "A quiz game for all my dear quizzers",
+	"launch_path": "/main.html",
+	"icons": {
+		"128":"/images/QUIZ.jpeg"
+	
+},
+"developer": {
+	"name": "Joyce George",
+	"company": "FOSS@Amrita,Amritapuri",
+	"url": "https://foss.amrita.ac.in"
+},
+"default_locale": "en"
 }
